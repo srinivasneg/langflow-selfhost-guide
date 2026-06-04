@@ -1,0 +1,16 @@
+{
+  "id": "replace-with-unique-uuid-v4",
+  "name": "Category / Template Name",
+  "description": "Short description of what this flow does.",
+  "data": {
+    "nodes": [],
+    "edges": [],
+    "viewport": {
+      "x": 0,
+      "y": 0,
+      "zoom": 1
+    }
+  },
+  "tags": ["category", "tag2"],
+  "is_component": false
+}

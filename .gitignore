@@ -1,0 +1,29 @@
+# Environment files (never commit real credentials)
+.env
+*.env
+!*.env.example
+
+# Logs
+*.log
+langflow.log
+backend.log
+frontend.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database backups
+*.db.backup.*
